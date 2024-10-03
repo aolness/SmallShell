@@ -1,0 +1,1 @@
+gcc -std=c99 -o smallsh.c smallsh
